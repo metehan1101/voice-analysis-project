@@ -1,4 +1,4 @@
-# Voice Analysis Project
+# Speech Signal Analysis Tool
 
 This project analyzes recorded speech using Python signal processing techniques.
 
