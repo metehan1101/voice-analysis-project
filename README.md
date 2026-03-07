@@ -23,19 +23,19 @@ This project was developed as part of personal research on voice signal analysis
 ## Example Analysis Outputs
 
 ### Waveform
-![Waveform](Amplitude Of Human Voice.png)
+![Waveform](waveform.png)
 
 ### Frequency Spectrum
-![Spectrum](frequency specturum.png)
+![Frequency Spectrum](frequency_spectrum.png)
 
 ### Spectrogram
 ![Spectrogram](spectrogram.png)
 
 ### Pitch Contour
-![Pitch](pitch contour.png)
+![Pitch](pitch_contour.png)
 
 ### Speech Energy (RMS)
-![Energy](speech energy RMS.png)
+![Energy](speech_energy.png)
 
 ### MFCC Features
-![MFCC](MFCC Features.png)
+![MFCC](mfcc_features.png)
