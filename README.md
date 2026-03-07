@@ -39,3 +39,13 @@ This project was developed as part of personal research on voice signal analysis
 
 ### MFCC Features
 ![MFCC](mfcc_features.png)
+
+## How to Run
+
+1. Install required libraries
+
+pip install librosa numpy matplotlib
+
+2. Run the analysis script
+
+python voice_analysis.py
