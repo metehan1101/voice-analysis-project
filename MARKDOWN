@@ -1,0 +1,1 @@
+A Python-based speech signal analysis tool developed to extract and visualize core acoustic features from recorded voice data, including waveform, frequency spectrum, spectrogram, pitch, RMS energy and MFCC.
