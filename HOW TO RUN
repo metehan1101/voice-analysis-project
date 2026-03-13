@@ -1,0 +1,19 @@
+## Key Features
+
+- Waveform visualization
+- FFT-based frequency spectrum analysis
+- Spectrogram generation
+- Pitch contour estimation
+- RMS speech energy analysis
+- MFCC feature extraction
+- Basic timing and voice presence analysis
+
+## How to Run
+
+1. Install the required libraries:
+
+pip install librosa numpy matplotlib
+
+2. Run the Python script:
+
+python voice_analysis.py
